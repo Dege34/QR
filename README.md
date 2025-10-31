@@ -66,3 +66,10 @@ Use a higher --cooldown value or run with --no-open.
 
 #### -Poor detection
 Improve lighting, avoid glare, move closer, or increase the QR code size.
+
+---
+
+## License
+
+This project is released under the **MIT License**.  
+© 2024 Dogan Ege BULTE
